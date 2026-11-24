@@ -1,0 +1,6 @@
+out/
+frames/
+assets/
+capture.js
+build_video.py
+*.mp4
